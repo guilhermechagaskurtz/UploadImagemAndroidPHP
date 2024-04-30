@@ -1,0 +1,7 @@
+Adicionar a dependência do Volley no build.gradle (Module)
+
+depencencies{
+	...
+	implementation 'com.android.volley:volley:1.2.1'
+	...
+}
